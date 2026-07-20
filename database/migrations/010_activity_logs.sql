@@ -1,6 +1,6 @@
 -- =====================================================
 -- Bolt Workspace
--- Migration: 009_activity_logs.sql
+-- Migration: 010_activity_logs.sql
 -- Description: Activity Logs / Audit Trail
 -- =====================================================
 
